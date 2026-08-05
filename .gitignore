@@ -1,0 +1,42 @@
+# macOS and editors
+.DS_Store
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+.venv/
+venv/
+*.log
+
+# Django runtime files
+*.sqlite3
+*.sqlite3-journal
+/protein_localizer/media/
+/protein_localizer/static/
+
+# Node and generated frontend files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/protein_localizer/frontend/static/frontend/bundle.js
+/protein_localizer/frontend/static/frontend/bundle.js.LICENSE.txt
+/protein_localizer/frontend/static/frontend/jquery.min.js
+
+# Legacy datasets not used by the current application
+/protein_localizer/frontend/static/data/v6_exprs_data/
+/protein_localizer/frontend/static/data/pair_to_sortedKeggs_mse.kegg
+/protein_localizer/frontend/static/data/3.exprs_agg_by_proteins/Gbm_Normal_Transcriptomics.exp.labeled
+/protein_localizer/frontend/static/data/3.exprs_agg_by_proteins/Gbm_Tumor_Transcriptomics.exp.labeled
