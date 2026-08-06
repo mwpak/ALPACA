@@ -1,16 +1,20 @@
-# ALPACA source code
+# ALPACA
 
-This repository contains the source code and processed datasets for **ALPACA
+This is the main repository for **ALPACA
 (A Location-wise Proteome/transcriptome Abundance Comparative Analyzer)**, the
-software accompanying the *BMC Medical Genomics* article:
+software accompanying the *BMC Medical Genomics* article. It contains the
+source code, processed datasets, installation instructions, and ongoing
+development of the ALPACA web application.
 
 > Minwoo Pak, Dabin Jeong, Sungjoon Park, Jeonghyeon Gu, Sangseon Lee, and
 > Sun Kim. **ALPACA: A Visual Data Mining System for Subcellular
 > Location-specific Knowledge Mining from Multi-Omics Data in Cancer.**
 > *BMC Medical Genomics* (forthcoming publication).
 
-- Interactive website: https://mwpak.github.io/ALPACA/
-- Website repository: https://github.com/mwpak/ALPACA
+For precomputed pan-cancer abundance data analyses, please visit
+[ALPACA_panCancer](https://mwpak.github.io/ALPACA_panCancer/). The deployed
+website is maintained in the
+[ALPACA_panCancer GitHub Pages repository](https://github.com/mwpak/ALPACA_panCancer).
 
 The final volume, article number, and DOI will be added when the journal
 citation is available.
@@ -49,8 +53,8 @@ React 17, D3 7, and webpack 5.
 Clone the repository and enter the Django project:
 
 ```sh
-git clone https://github.com/mwpak/ALPACA_code.git
-cd ALPACA_code/protein_localizer
+git clone https://github.com/mwpak/ALPACA.git
+cd ALPACA/protein_localizer
 ```
 
 Create a Python environment and install the backend dependencies:
