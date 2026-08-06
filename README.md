@@ -6,15 +6,19 @@ software accompanying the *BMC Medical Genomics* article. It contains the
 source code, processed datasets, installation instructions, and ongoing
 development of the ALPACA web application.
 
+> [!IMPORTANT]
+> **Explore the precomputed pan-cancer analyses**
+>
+> Please visit **[ALPACA_panCancer](https://mwpak.github.io/ALPACA_panCancer/)**
+> for precomputed pan-cancer abundance data analyses.
+>
+> - **Launch the website:** [ALPACA_panCancer](https://mwpak.github.io/ALPACA_panCancer/)
+> - **View the GitHub Pages repository:** [mwpak/ALPACA_panCancer](https://github.com/mwpak/ALPACA_panCancer)
+
 > Minwoo Pak, Dabin Jeong, Sungjoon Park, Jeonghyeon Gu, Sangseon Lee, and
 > Sun Kim. **ALPACA: A Visual Data Mining System for Subcellular
 > Location-specific Knowledge Mining from Multi-Omics Data in Cancer.**
 > *BMC Medical Genomics* (forthcoming publication).
-
-For precomputed pan-cancer abundance data analyses, please visit
-[ALPACA_panCancer](https://mwpak.github.io/ALPACA_panCancer/). The deployed
-website is maintained in the
-[ALPACA_panCancer GitHub Pages repository](https://github.com/mwpak/ALPACA_panCancer).
 
 The final volume, article number, and DOI will be added when the journal
 citation is available.
