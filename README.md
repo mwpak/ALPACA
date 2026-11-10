@@ -18,10 +18,8 @@ development of the ALPACA web application.
 > Minwoo Pak, Dabin Jeong, Sungjoon Park, Jeonghyeon Gu, Sangseon Lee, and
 > Sun Kim. **ALPACA: A Visual Data Mining System for Subcellular
 > Location-specific Knowledge Mining from Multi-Omics Data in Cancer.**
-> *BMC Medical Genomics* (forthcoming publication).
-
-The final volume, article number, and DOI will be added when the journal
-citation is available.
+> *BMC Medical Genomics* **16** (Suppl 1), 336 (2026).
+> DOI: [10.1186/s12920-026-02440-4](https://doi.org/10.1186/s12920-026-02440-4)
 
 ## About ALPACA
 
